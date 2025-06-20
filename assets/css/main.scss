@@ -41,3 +41,16 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.author__urls .fab,
+.author__urls .fas,
+.author__urls .ai {
+  color: currentColor !important;
+  transition: color 0.2s;
+}
+
+.author__urls .fab,
+.author__urls .ai {
+  font-size: 1.15em; // Adjust this value as needed
+  vertical-align: middle;
+}
