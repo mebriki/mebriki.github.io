@@ -20,12 +20,6 @@ redirect_from:
 .exp-details {
   max-width: 70%;
 }
-.exp-meta {
-  text-align: right;
-  min-width: 170px;
-  color: #666;
-  font-size: 0.95em;
-}
 .exp-role {
   font-weight: bold;
   font-size: 1.1em;
@@ -61,7 +55,7 @@ redirect_from:
       Managing and updating a high-quality legal text database powering <a href="https://www.wessini.co/verdikt" target="_blank">Verdikt</a>—a legal AI assistant.
     </div>
   </div>
-  <div class="exp-meta">
+  <div class="meta-text">
     Algiers, Algeria, Hybrid<br>
     Jan 2025 – Present
   </div>
@@ -83,7 +77,7 @@ redirect_from:
       <li>Processed thousands of legal documents with high accuracy, enabling the creation of a robust legal text database.</li>
     </ul>
   </div>
-  <div class="exp-meta">
+  <div class="meta-text">
     Algiers, Algeria, On-site<br>
     Nov 2023 – Dec 2024
   </div>
@@ -106,7 +100,7 @@ redirect_from:
       <li>Authored technical blogs on Edge Computing and AI, including <a href="https://namla.cloud/blog/empowering-predictive-maintenance-the-role-of-edge-computing-in-the-oil-gas-industry" target="_blank">Predictive Maintenance</a> and <a href="https://namla.cloud/blog/satellite-edge-computing-sec-towards-ai-enabled-satellites" target="_blank">Satellite Edge Computing (SEC)</a>.</li>
     </ul>
   </div>
-  <div class="exp-meta">
+  <div class="meta-text">
     Orsay, France, Remote<br>
     Feb 2023 – Aug 2023
   </div>
@@ -126,7 +120,7 @@ redirect_from:
       <li>Inspected and documented operating room equipment and instruments.</li>
     </ul>
   </div>
-  <div class="exp-meta">
+  <div class="meta-text">
     Algiers, Algeria, On-site<br>
     Mar 2017 – Apr 2017
   </div>

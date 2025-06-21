@@ -5,9 +5,13 @@ collection: projects
 date: 2020-11-24
 ---
 
-**Tools:** VGG16, SVM, MLP, Random Forest, INBreast dataset, NumPy, Pandas, Scikit-learn, Keras  
-**Date:** Apr 2020 – Nov 2020  
-**Code:** [GitHub Repo](https://github.com/mebriki/Breast-Cancer-Classification)
+<div style="color: var(--meta-text-color);">
+    <strong>Tools:</strong> VGG16, SVM, MLP, Random Forest, INBreast dataset, NumPy, Pandas, Scikit-learn, Keras
+    <br>
+    <strong>Date:</strong> Apr 2020 – Nov 2020
+    <br>
+    <strong>Code:</strong><a href="https://github.com/mebriki/Breast-Cancer-Classification" target="_blank">[GitHub Repo]</a>
+</div> 
 
 - Developed a breast cancer classification model combining a fine-tuned VGG-16 CNN for feature extraction and traditional ML classifiers (SVM, MLP, Random Forest) for final prediction.
 - Improved upon baseline model (AUC = 0.95) by achieving AUC = 0.98 using SVM, with further performance gains using MLP and Random Forest.

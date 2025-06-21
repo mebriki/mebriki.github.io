@@ -21,15 +21,9 @@ redirect_from:
 .edu-details {
   max-width: 70%;
 }
-.edu-meta {
-  text-align: right;
-  min-width: 150px;
-  color: #666;
-  font-size: 0.95em;
-}
 .edu-degree {
-  font-weight: bold;
-  font-size: 1.1em;
+  font-weight  : bold;
+  font-size    : 1.1em;
 }
 .edu-univ {
   margin-top: 0.2em;
@@ -56,7 +50,7 @@ redirect_from:
       Thesis: "Medical Images Classification Based on Deep Features Extraction Exploiting Transfer Learning" - Grade: 17.50/20 (Très Bien)
     </div>
   </div>
-  <div class="edu-meta">
+  <div class="meta-text">
     Tlemcen, Algeria<br>
     Sep 2017 &ndash; Nov 2020
   </div>
@@ -75,7 +69,7 @@ redirect_from:
       Final Project: "Patient Record Management System (PRMS) for Cardiac Surgery Department" - Grade: 15/20 (Bien)
     </div>
   </div>
-  <div class="edu-meta">
+  <div class="meta-text">
     Tlemcen, Algeria<br>
     Sep 2014 &ndash; Jun 2017
   </div>

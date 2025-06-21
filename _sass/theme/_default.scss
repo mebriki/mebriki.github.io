@@ -49,4 +49,14 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$blue-gray};
+
+    --meta-text-color                    : #6c757d;   /* Light theme */
+}
+
+// Global meta-text class for details (dates, locations, etc.)
+.meta-text {
+  text-align: right;
+  min-width: 170px;
+  color: var(--meta-text-color);
+  font-size: 0.95em;
 }
