@@ -1,6 +1,6 @@
 ---
 title: "Breast Cancer Classification: Hybrid Deep Learning Approach (Master's Thesis)"
-excerpt: "Developed a breast cancer classification model combining deep learning and traditional ML classifiers. Achieved AUC = 0.98 on INBreast dataset.<br/><img src='/images/500x300.png'>"
+excerpt: "Developed a breast cancer classification model combining deep learning and traditional ML classifiers. Achieved AUC = 0.98 on INBreast dataset.<br/><img src='/images/auc.png'>"
 collection: projects
 date: 2020-11-24
 ---

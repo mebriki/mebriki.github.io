@@ -12,9 +12,9 @@ $background                 : #263238;  // Material Design dark blue-gray
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link                       : #40c4ff;   // Sky Blue for dark theme
+$link-dark                  : #0094cc;   // Slightly darker for hover
+$link-light                 : #82b1ff;   // Lighter for visited
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;

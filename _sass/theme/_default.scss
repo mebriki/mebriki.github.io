@@ -37,7 +37,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
+    --global-link-color: #0056b3;         // Royal Blue for light theme
+    --global-link-color-hover: #003974;   // Darker on hover
     
     // --global-link-color-hover           : mix(#000, #2f7f93, 25%);
     --global-link-color-hover           : #208bbd;

@@ -29,7 +29,7 @@ author:
   location        : "Algiers, Algeria"
   employer        : "Wessini"
   employer_url    : https://wessini.co
-  uri             : "mebriki.github.io"
+  uri             : "https://mebriki.github.io"
   email           : "mohamed.e.briki@gmail.com"
   academic_email  : "mohamedelamine.briki@univ-tlemcen.dz"
 
@@ -220,7 +220,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -229,7 +229,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
