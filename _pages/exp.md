@@ -44,7 +44,7 @@ redirect_from:
 
 <div class="exp-entry">
   <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/images/logo/wessini.webp" alt="Wessini Logo">
+    <img class="exp-logo" src="/assets/logos/wessini.webp" alt="Wessini Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">
@@ -66,7 +66,7 @@ redirect_from:
 
 <div class="exp-entry">
   <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/images/logo/wessini.webp" alt="Wessini Logo">
+    <img class="exp-logo" src="/assets/logos/wessini.webp" alt="Wessini Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">
@@ -91,7 +91,7 @@ redirect_from:
 
 <div class="exp-entry">
   <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/images/logo/namla.svg" alt="Namla Logo">
+    <img class="exp-logo" src="/assets/logos/namla.svg" alt="Namla Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">
@@ -117,7 +117,7 @@ redirect_from:
 
 <div class="exp-entry">
   <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/images/logo/chu.png" alt="Chu-Mustapha Logo">
+    <img class="exp-logo" src="/assets/logos/chu.png" alt="Chu-Mustapha Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">

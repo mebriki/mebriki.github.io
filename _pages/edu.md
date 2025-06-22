@@ -39,7 +39,7 @@ redirect_from:
 
 <div class="edu-entry">
   <div class="logo-wrapper">
-    <img class="edu-logo" src="/assets/images/logo/uabt250.png" alt="University Logo250">
+    <img class="edu-logo" src="/assets/logos/uabt250.png" alt="University Logo250">
   </div>
   <div class="edu-details">
     <div class="edu-degree">
@@ -61,7 +61,7 @@ redirect_from:
 
 <div class="edu-entry">
   <div class="logo-wrapper">
-    <img class="edu-logo" src="/assets/images/logo/uabt250.png" alt="University Logo">
+    <img class="edu-logo" src="/assets/logos/uabt250.png" alt="University Logo">
   </div>
   <div class="edu-details">
     <div class="edu-degree">
