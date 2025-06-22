@@ -61,3 +61,8 @@ html[data-theme="dark"] {
 
     --meta-text-color                    : #b0bec5;   /* Dark theme */
 }
+
+html[data-theme="dark"] .logo-wrapper {
+    background: #e6fcff;
+    box-shadow: 0 1px 4px var(--meta-text-color);
+}

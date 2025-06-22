@@ -60,3 +60,28 @@ $sidebar-screen-min-width   : 1024px;
   color: var(--meta-text-color);
   font-size: 0.95em;
 }
+
+
+.edu-entry, .exp-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  overflow: visible;
+}
+.edu-logo, .exp-logo {
+  width: 45px;
+  height: 45px;
+  object-fit: contain;
+}
+.edu-details, .exp-details {
+  flex: 1;
+}
+.logo-wrapper {
+  background: #fff8ec;
+  box-shadow: 0 1px 4px var(--meta-text-color);
+  display: inline-block;
+  padding: 8px;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-left: 10px;
+}

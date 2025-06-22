@@ -22,7 +22,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/mebriki.jpg
+* Profile image (can set in _config.yml): assets/images/me/mebriki.jpg
 
 ## Tips and hints
 

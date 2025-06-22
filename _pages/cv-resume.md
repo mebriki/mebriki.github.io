@@ -42,12 +42,10 @@ details[open] .summary-arrow {
 
 <details>
   <summary><span class="summary-arrow">&#9654;</span> Academic CV</summary>
-  <!-- <a href="/files/academic_cv.pdf" target="_blank">View Academic CV (PDF)</a> -->
   <iframe src="/files/academic_cv.pdf" width="100%" height="700"></iframe>
 </details>
 
 <details>
   <summary><span class="summary-arrow">&#9654;</span> ML Resume</summary>
-  <!-- <a href="/files/ml_resume.pdf" target="_blank">View ML Resume (PDF)</a> -->
   <iframe src="/files/ml_resume.pdf" width="100%" height="700"></iframe>
 </details>

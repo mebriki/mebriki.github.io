@@ -22,7 +22,7 @@ repository               : "mebriki/mebriki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mebriki.jpg"
+  avatar           : "me/mebriki.jpg"
   name             : "Mohamed E. BRIKI"
   pronouns         : # example: "she/her"
   bio              : "Machine Learning Engineer with a strong interest in deep learning for medical research. Actively seeking PhD opportunities."
@@ -90,7 +90,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /assets/images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -219,18 +219,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: false
+  #   permalink: /:collection/:path/
   publications:
     output: false
     permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  # talks:
+  #   output: false
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site

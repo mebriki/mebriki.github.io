@@ -38,13 +38,16 @@ redirect_from:
 <!-- # Education -->
 
 <div class="edu-entry">
+  <div class="logo-wrapper">
+    <img class="edu-logo" src="/assets/images/logo/uabt250.png" alt="University Logo250">
+  </div>
   <div class="edu-details">
     <div class="edu-degree">
       Master's Biomedical Informatics
-      <a href="https://drive.google.com/file/d/1mD6btuEh9sSezaQVHYFTi1mk7OmeAqT_/view?usp=drive_link" target="_blank">[Diploma]</a>
+      <a href="https://drive.google.com/file/d/1mD6btuEh9sSezaQVHYFTi1mk7OmeAqT_/view?usp=drive_link" target="_blank" rel="noopener noreferrer">[Diploma]</a>
     </div>
     <div class="edu-univ">
-      <a href="https://univ-tlemcen.dz" target="_blank">University of Abou Bekr Belkaïd Tlemcen</a>
+      <a href="https://univ-tlemcen.dz" target="_blank" rel="noopener noreferrer">University of Abou Bekr Belkaïd Tlemcen</a>
     </div>
     <div class="edu-thesis">
       Thesis: "Medical Images Classification Based on Deep Features Extraction Exploiting Transfer Learning" - Grade: 17.50/20 (Très Bien)
@@ -57,13 +60,16 @@ redirect_from:
 </div>
 
 <div class="edu-entry">
+  <div class="logo-wrapper">
+    <img class="edu-logo" src="/assets/images/logo/uabt250.png" alt="University Logo">
+  </div>
   <div class="edu-details">
     <div class="edu-degree">
       Bachelor's Biomedical Engineering
-      <a href="https://drive.google.com/file/d/1tkIhxVdk5QBs6jXqRUvNF2xw0yAiJKA3/view?usp=drive_link" target="_blank">[Diploma]</a>
+      <a href="https://drive.google.com/file/d/1tkIhxVdk5QBs6jXqRUvNF2xw0yAiJKA3/view?usp=drive_link" target="_blank" rel="noopener noreferrer">[Diploma]</a>
     </div>
     <div class="edu-univ">
-      <a href="https://univ-tlemcen.dz" target="_blank">University of Abou Bekr Belkaïd Tlemcen</a>
+      <a href="https://univ-tlemcen.dz" target="_blank" rel="noopener noreferrer">University of Abou Bekr Belkaïd Tlemcen</a>
     </div>
     <div class="edu-thesis">
       Final Project: "Patient Record Management System (PRMS) for Cardiac Surgery Department" - Grade: 15/20 (Bien)
