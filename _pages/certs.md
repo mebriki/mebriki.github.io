@@ -190,7 +190,7 @@ permalink: /certs/
     <div class="cert-title">AWS Machine Learning Fundamentals Nanodegree</div>
     <div class="cert-issuer">Udacity</div>
     <div class="cert-date">Oct 2024</div>
-    <div class="cert-desc">Refine your machine learning skills with this AWS Machine Learning Engineer Nanodegree. Learn to deploy models on SageMaker and design automated workflows with AWS Lambda and Step Functions.</div>
+    <div class="cert-desc">Program focusing on the end‑to‑end ML workflow using AWS SageMaker—covering data prep, feature engineering, model training (XGBoost, AutoGluon), tuning, deployment, and deep learning (CV & NLP).</div>
   </div>
   
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ai_py_nano.png');" onclick="openLightbox(1)">
@@ -202,7 +202,7 @@ permalink: /certs/
     <div class="cert-title">AI Programming with Python Nanodegree</div>
     <div class="cert-issuer">Udacity</div>
     <div class="cert-date">Feb 2024</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Comprehensive intro to Python for AI—with NumPy, Pandas, Matplotlib, and foundational neural network implementation using PyTorch.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/hp_life.png');" onclick="openLightbox(2)">
@@ -214,7 +214,7 @@ permalink: /certs/
     <div class="cert-title">Data Science & Analytics</div>
     <div class="cert-issuer">HP LIFE</div>
     <div class="cert-date">Oct 2023</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Covers fundamental data analysis, visualization, and analytics tools—designed to make data‑driven business decisions.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/nvidia_ai_anomaly.png');" onclick="openLightbox(3)">
@@ -226,7 +226,7 @@ permalink: /certs/
     <div class="cert-title">Applications of AI for Anomaly Detection</div>
     <div class="cert-issuer">NVIDIA DLI</div>
     <div class="cert-date">Feb 2023</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Hands‑on anomaly detection workshop using GPU‑accelerated XGBoost, deep autoencoders, and GANs to detect patterns in real‑world datasets.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_ml.png');" onclick="openLightbox(4)">
@@ -237,7 +237,7 @@ permalink: /certs/
     <div class="cert-title">Introduction to Machine Learning</div>
     <div class="cert-issuer">Anaconda</div>
     <div class="cert-date">Feb 2023</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Introductory ML course exploring supervised learning, model evaluation, and practical implementation using Python and scikit‑learn.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_py.png');" onclick="openLightbox(5)">
@@ -248,7 +248,7 @@ permalink: /certs/
     <div class="cert-title">Introduction to Python Programming</div>
     <div class="cert-issuer">Anaconda</div>
     <div class="cert-date">Feb 2023</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Fundamental course covering Python basics—variables, loops, functions, data types, and file I/O geared for data analysis.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_sql.png');" onclick="openLightbox(6)">
@@ -259,7 +259,7 @@ permalink: /certs/
     <div class="cert-title">Introduction to SQL</div>
     <div class="cert-issuer">Anaconda</div>
     <div class="cert-date">Feb 2023</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Learn essential SQL querying—SELECT, JOINs, aggregation, and filtering—to extract and analyze data from relational databases.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/bg_cloud.png');" onclick="openLightbox(7)">
@@ -271,7 +271,7 @@ permalink: /certs/
     <div class="cert-title">Google Cloud Academy</div>
     <div class="cert-issuer">BambooGeeks</div>
     <div class="cert-date">Jan -- Feb 2023</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Hands‑on exposure to core Google Cloud services—compute, storage, networking, and ML APIs—through practical labs.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ai_med.png');" onclick="openLightbox(8)">
@@ -283,7 +283,7 @@ permalink: /certs/
     <div class="cert-title">AI for Medical Diagnosis</div>
     <div class="cert-issuer">DeepLearning.AI</div>
     <div class="cert-date">May 2022</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Explores deep learning models for medical imaging applications—classification and segmentation using convolutional neural networks.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/gcp_leader.png');" onclick="openLightbox(9)">
@@ -295,7 +295,7 @@ permalink: /certs/
     <div class="cert-title">Google Cloud Digital Leader Training Professional Certificate</div>
     <div class="cert-issuer">Google Cloud</div>
     <div class="cert-date">May 2022</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Professional certificate covering cloud concepts and GCP services to support digital transformation and business use‑cases.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/tf.png');" onclick="openLightbox(10)">
@@ -307,7 +307,7 @@ permalink: /certs/
     <div class="cert-title">TensorFlow Developer Certificate</div>
     <div class="cert-issuer">TensorFlow</div>
     <div class="cert-date">Apr 2022</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Validated skills in building and training TensorFlow models for vision, NLP, and time series tasks.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/intro_tf.png');" onclick="openLightbox(11)">
@@ -319,7 +319,7 @@ permalink: /certs/
     <div class="cert-title">Introduction to TensorFlow for AI, ML, and DL</div>
     <div class="cert-issuer">DeepLearning.AI</div>
     <div class="cert-date">Apr 2022</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Begins with TensorFlow basics and progresses through model training for computer vision using Keras and TF pipelines.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/it_support.png');" onclick="openLightbox(12)">
@@ -331,7 +331,7 @@ permalink: /certs/
     <div class="cert-title">Google IT Support Professional Certificate</div>
     <div class="cert-issuer">Google</div>
     <div class="cert-date">Apr 2022</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Covers essential IT support skills including troubleshooting, networking, OS management, system administration, and security.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/nvidia_fund_dl.png');" onclick="openLightbox(13)">
@@ -343,7 +343,7 @@ permalink: /certs/
     <div class="cert-title">Fundamentals of Deep Learning</div>
     <div class="cert-issuer">NVIDIA DLI</div>
     <div class="cert-date">Feb 2022</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Fundamental deep learning course introducing neural networks, CNNs, and hands‑on model implementation using PyTorch/TensorFlow.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/bg_ml.png');" onclick="openLightbox(14)">
@@ -355,7 +355,7 @@ permalink: /certs/
     <div class="cert-title">Machine Learning Academy</div>
     <div class="cert-issuer">BambooGeeks</div>
     <div class="cert-date">Jan -- Feb 2022</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Project‑based bootcamp covering supervised learning techniques, classification, and model evaluation fundamentals.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/kick.png');" onclick="openLightbox(15)">
@@ -367,7 +367,7 @@ permalink: /certs/
     <div class="cert-title">Kickstart your Career in Tech</div>
     <div class="cert-issuer">BambooGeeks</div>
     <div class="cert-date">Nov 2021</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Introduction to key tech career skills—cloud computing, software development basics, and digital tools.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/gcp.png');" onclick="openLightbox(16)">
@@ -379,7 +379,7 @@ permalink: /certs/
     <div class="cert-title">MENA 60 Days on Tech Challenge</div>
     <div class="cert-issuer">Google Cloud</div>
     <div class="cert-date">Nov -- Dec 2021</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Intensive GCP challenge focused on deploying cloud solutions and APIs over a two‑month period.</div>
   </div>
 
   <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ibm_ml.png');" onclick="openLightbox(17)">
@@ -391,7 +391,7 @@ permalink: /certs/
     <div class="cert-title">IBM Machine Learning Essentials</div>
     <div class="cert-issuer">IBM</div>
     <div class="cert-date">Nov 2021</div>
-    <div class="cert-desc">...</div>
+    <div class="cert-desc">Introduces ML workflows and model development using IBM Watson Studio—including supervised and unsupervised learning.</div>
   </div>
 
 <!-- Lightbox -->
@@ -422,7 +422,7 @@ const certs = [
     title: "AWS Machine Learning Fundamentals Nanodegree",
     issuer: "Udacity",
     date: "Aug 2024",
-    desc: "...",
+    desc: "Program focusing on the end‑to‑end ML workflow using AWS SageMaker—covering data prep, feature engineering, model training (XGBoost, AutoGluon), tuning, deployment, and deep learning (CV & NLP).",
     url: "https://www.udacity.com/certificate/e/c0f46e66-f6c0-11ee-a07c-97c7d1a9b5bb"
   },
   {
@@ -430,7 +430,7 @@ const certs = [
     title: "AI Programming with Python Nanodegree",
     issuer: "Udacity",
     date: "Feb 2024",
-    desc: "...",
+    desc: "Comprehensive intro to Python for AI—with NumPy, Pandas, Matplotlib, and foundational neural network implementation using PyTorch.",
     url: "https://www.udacity.com/certificate/e/60f986e2-0dc2-11ed-bd5e-8bcb422a4640"
   },
   {
@@ -438,7 +438,7 @@ const certs = [
     title: "Data Science & Analytics",
     issuer: "HP LIFE",
     date: "Oct 2023",
-    desc: "...",
+    desc: "Covers fundamental data analysis, visualization, and analytics tools—designed to make data‑driven business decisions.",
     url: "https://www.life-global.org/certificate/9cc4f92f-43ac-494e-bf9a-cce4b3f96ff5"
   },
   {
@@ -446,7 +446,7 @@ const certs = [
     title: "Applications of AI for Anomaly Detection",
     issuer: "NVIDIA DLI",
     date: "Feb 2023",
-    desc: "...",
+    desc: "Hands‑on anomaly detection workshop using GPU‑accelerated XGBoost, deep autoencoders, and GANs to detect patterns in real‑world datasets.",
     url: "https://learn.nvidia.com/certificates?id=aZPPzCrXSWuIp2zeoaQv_Q"
   },
   {
@@ -454,7 +454,7 @@ const certs = [
     title: "Introduction to Machine Learning",
     issuer: "Anaconda",
     date: "Feb 2023",
-    desc: "...",
+    desc: "Introductory ML course exploring supervised learning, model evaluation, and practical implementation using Python and scikit‑learn.",
     url: "https://learning.anaconda.com/certificates/zxssxhpcqr"
   },
   {
@@ -462,7 +462,7 @@ const certs = [
     title: "Introduction to Python Programming",
     issuer: "Anaconda",
     date: "Feb 2023",
-    desc: "...",
+    desc: "Fundamental course covering Python basics—variables, loops, functions, data types, and file I/O geared for data analysis.",
     url: "https://verify.skilljar.com/c/vvgdtdzbxxsi"
   },
   {
@@ -470,7 +470,7 @@ const certs = [
     title: "Introduction to SQL",
     issuer: "Anaconda",
     date: "Feb 2023",
-    desc: "...",
+    desc: "Learn essential SQL querying—SELECT, JOINs, aggregation, and filtering—to extract and analyze data from relational databases.",
     url: "https://learning.anaconda.com/certificates/3ijhcvzt5i"
   },
   {
@@ -478,7 +478,7 @@ const certs = [
     title: "Google Cloud Academy",
     issuer: "BambooGeeks",
     date: "Jan -- Feb 2023",
-    desc: "...",
+    desc: "Hands‑on exposure to core Google Cloud services—compute, storage, networking, and ML APIs—through practical labs.",
     url: "https://drive.google.com/file/d/1za4ZZhjk9cZtJbCvDe7GDG0aPj2vxAon/view?usp=drive_link"
   },
   {
@@ -486,7 +486,7 @@ const certs = [
     title: "AI for Medical Diagnosis",
     issuer: "DeepLearning.AI",
     date: "May 2022",
-    desc: "...",
+    desc: "Explores deep learning models for medical imaging applications—classification and segmentation using convolutional neural networks.",
     url: "https://www.coursera.org/account/accomplishments/verify/LHQ2XBWRECVW"
   },
   {
@@ -494,7 +494,7 @@ const certs = [
     title: "Google Cloud Digital Leader Training Professional Certificate",
     issuer: "Google Cloud}",
     date: "May 2022",
-    desc: "...",
+    desc: "Professional certificate covering cloud concepts and GCP services to support digital transformation and business use‑cases.",
     url: "https://www.coursera.org/account/accomplishments/professional-cert/YVQHSQKDP6VJ"
   },
   {
@@ -502,7 +502,7 @@ const certs = [
     title: "TensorFlow Developer Certificate",
     issuer: "TensorFlow",
     date: "Apr 2022",
-    desc: "...",
+    desc: "Validated skills in building and training TensorFlow models for vision, NLP, and time series tasks.",
     url: "https://www.credential.net/384b5307-6f62-4873-88ca-04aa6d838901"
   },
   {
@@ -510,7 +510,7 @@ const certs = [
     title: "Introduction to TensorFlow for AI, ML, and DL",
     issuer: "DeepLearning.AI",
     date: "Apr 2022",
-    desc: "...",
+    desc: "Begins with TensorFlow basics and progresses through model training for computer vision using Keras and TF pipelines.",
     url: "https://www.coursera.org/account/accomplishments/verify/X9K9AA3KTTWF"
   },
   {
@@ -518,7 +518,7 @@ const certs = [
     title: "Google IT Support Professional Certificate",
     issuer: "Google",
     date: "Apr 2022",
-    desc: "...",
+    desc: "Covers essential IT support skills including troubleshooting, networking, OS management, system administration, and security.",
     url: "https://www.coursera.org/account/accomplishments/professional-cert/92MJFJPJE47Y"
   },
   {
@@ -526,7 +526,7 @@ const certs = [
     title: "Fundamentals of Deep Learning",
     issuer: "NVIDIA DLI",
     date: "Feb 2022",
-    desc: "...",
+    desc: "Fundamental deep learning course introducing neural networks, CNNs, and hands‑on model implementation using PyTorch/TensorFlow.",
     url: "https://learn.nvidia.com/certificates?id=MlcE0Co3RrKSonVRL97WJQ"
   },
   {
@@ -534,7 +534,7 @@ const certs = [
     title: "Machine Learning Academy",
     issuer: "BambooGeeks",
     date: "Jan -- Feb 2022",
-    desc: "...",
+    desc: "Project‑based bootcamp covering supervised learning techniques, classification, and model evaluation fundamentals.",
     url: ""
   },
   {
@@ -542,7 +542,7 @@ const certs = [
     title: "Kickstart your Career in Tech",
     issuer: "BambooGeeks",
     date: "Nov 2021",
-    desc: "...",
+    desc: "Introduction to key tech career skills—cloud computing, software development basics, and digital tools.",
     url: "https://drive.google.com/file/d/1QKvsCvYaMcqtflv9lVDA1G-0737qncrZ/view?usp=drive_link"
   },
   {
@@ -550,7 +550,7 @@ const certs = [
     title: "MENA 60 Days on Tech Challenge",
     issuer: "Google Cloud}",
     date: "Nov -- Dec 2021",
-    desc: "...",
+    desc: "Intensive GCP challenge focused on deploying cloud solutions and APIs over a two‑month period.",
     url: "https://www.cloudskillsboost.google/public_profiles/39db8c5a-3476-4bf2-85a8-34afeddeb35d"
   },
   {
@@ -558,7 +558,7 @@ const certs = [
     title: "IBM Machine Learning Essentials",
     issuer: "IBM}",
     date: "Nov 2021",
-    desc: "...",
+    desc: "Introduces ML workflows and model development using IBM Watson Studio—including supervised and unsupervised learning.",
     url: "https://www.credly.com/badges/ef26ebbf-cb41-451a-8b7c-dd31ed162ab4"
   }
 ]
