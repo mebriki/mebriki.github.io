@@ -43,8 +43,9 @@ redirect_from:
 <!-- # Experience -->
 
 <div class="exp-entry">
-  <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/logos/wessini.webp" alt="Wessini Logo">
+  <div class="logo-wrapper" aria-label="Wessini">
+    <img class="exp-logo logo-light" src="/assets/images/logos/wessini-dark.webp" alt="Wessini Logo">
+    <img class="exp-logo logo-dark"  src="/assets/images/logos/wessini-light.webp" alt="Wessini Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">
@@ -65,8 +66,9 @@ redirect_from:
 </div>
 
 <div class="exp-entry">
-  <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/logos/wessini.webp" alt="Wessini Logo">
+  <div class="logo-wrapper" aria-label="Wessini">
+    <img class="exp-logo logo-light" src="/assets/images/logos/wessini-dark.webp" alt="Wessini Logo">
+    <img class="exp-logo logo-dark"  src="/assets/images/logos/wessini-light.webp" alt="Wessini Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">
@@ -91,7 +93,8 @@ redirect_from:
 
 <div class="exp-entry">
   <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/logos/namla.svg" alt="Namla Logo">
+    <img class="exp-logo logo-light" src="/assets/images/logos/namla-dark.svg" alt="Namla Logo">
+    <img class="exp-logo logo-dark" src="/assets/images/logos/namla-light.svg" alt="Namla Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">
@@ -117,7 +120,7 @@ redirect_from:
 
 <div class="exp-entry">
   <div class="logo-wrapper">
-    <img class="exp-logo" src="/assets/logos/chu.png" alt="Chu-Mustapha Logo">
+    <img class="exp-logo" src="/assets/images/logos/chu.png" alt="Chu-Mustapha Logo">
   </div>
   <div class="exp-details">
     <div class="exp-role">

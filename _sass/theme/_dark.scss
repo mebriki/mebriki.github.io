@@ -59,10 +59,10 @@ html[data-theme="dark"] {
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
 
-    --meta-text-color                    : #b0bec5;   /* Dark theme */
+    --meta-color                        : #b0bec5;   /* Dark theme */
 }
 
-html[data-theme="dark"] .logo-wrapper {
-    background: #e6fcff;
-    box-shadow: 0 1px 4px var(--meta-text-color);
-}
+// html[data-theme="dark"] .logo-wrapper {
+//     background: #e6fcff;
+//     box-shadow: 0 1px 4px var(--meta-color);
+// }

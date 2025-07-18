@@ -5,7 +5,7 @@ collection: projects
 date: 2020-11-24
 ---
 
-<div style="color: var(--meta-text-color);">
+<div class="page__date">
     <strong>Tools:</strong> VGG16, SVM, MLP, Random Forest, INBreast dataset, NumPy, Pandas, Scikit-learn, Keras
     <br>
     <strong>Date:</strong> Apr 2020 – Nov 2020

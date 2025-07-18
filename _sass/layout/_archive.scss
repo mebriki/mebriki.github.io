@@ -243,3 +243,8 @@
     }
   }
 }
+
+.page__date {
+  color: var(--meta-color); // or --meta-color if that's what's used in your theme
+  font-size: $type-size-5; // optional, to match meta styling
+}

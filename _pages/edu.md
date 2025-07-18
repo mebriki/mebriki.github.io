@@ -39,10 +39,11 @@ redirect_from:
 
 <div class="edu-entry">
   <div class="logo-wrapper">
-    <img class="edu-logo" src="/assets/logos/uabt250.png" alt="University Logo250">
+    <img class="edu-logo" src="/assets/images/logos/uabt.png" alt="University Logo250">
   </div>
   <div class="edu-details">
     <div class="edu-degree">
+     <!-- <img class="edu-logo-inline" src="logo.png" alt=""> -->
       Master's Biomedical Informatics
       <a href="https://drive.google.com/file/d/1mD6btuEh9sSezaQVHYFTi1mk7OmeAqT_/view?usp=drive_link" target="_blank" rel="noopener noreferrer">[Diploma]</a>
     </div>
@@ -61,7 +62,7 @@ redirect_from:
 
 <div class="edu-entry">
   <div class="logo-wrapper">
-    <img class="edu-logo" src="/assets/logos/uabt250.png" alt="University Logo">
+    <img class="edu-logo" src="/assets/images/logos/uabt.png" alt="University Logo">
   </div>
   <div class="edu-details">
     <div class="edu-degree">
