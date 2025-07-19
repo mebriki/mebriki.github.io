@@ -116,7 +116,7 @@ permalink: /certs/
   color: #666;
 }
 .lightbox-arrow {
-  position: fixed; /* 🔧 this is what was missing */
+  position: absolute;
   top: 50%;
   transform: translateY(-50%);
   background: rgba(255, 255, 255, 0.75);
@@ -179,9 +179,10 @@ permalink: /certs/
 
 </style>
 
+
 <div class="cert-grid">
   
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ml_fund_nano.png');" onclick="openLightbox(0)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ml_fund_nano.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -193,7 +194,7 @@ permalink: /certs/
     <div class="cert-desc">Program focusing on the end‑to‑end ML workflow using AWS SageMaker—covering data prep, feature engineering, model training (XGBoost, AutoGluon), tuning, deployment, and deep learning (CV & NLP).</div>
   </div>
   
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ai_py_nano.png');" onclick="openLightbox(1)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ai_py_nano.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -205,7 +206,7 @@ permalink: /certs/
     <div class="cert-desc">Comprehensive intro to Python for AI—with NumPy, Pandas, Matplotlib, and foundational neural network implementation using PyTorch.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/hp_life.png');" onclick="openLightbox(2)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/hp_life.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -217,7 +218,7 @@ permalink: /certs/
     <div class="cert-desc">Covers fundamental data analysis, visualization, and analytics tools—designed to make data‑driven business decisions.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/nvidia_ai_anomaly.png');" onclick="openLightbox(3)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/nvidia_ai_anomaly.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -229,7 +230,7 @@ permalink: /certs/
     <div class="cert-desc">Hands‑on anomaly detection workshop using GPU‑accelerated XGBoost, deep autoencoders, and GANs to detect patterns in real‑world datasets.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_ml.png');" onclick="openLightbox(4)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_ml.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -240,7 +241,7 @@ permalink: /certs/
     <div class="cert-desc">Introductory ML course exploring supervised learning, model evaluation, and practical implementation using Python and scikit‑learn.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_py.png');" onclick="openLightbox(5)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_py.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -251,7 +252,7 @@ permalink: /certs/
     <div class="cert-desc">Fundamental course covering Python basics—variables, loops, functions, data types, and file I/O geared for data analysis.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_sql.png');" onclick="openLightbox(6)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/anaconda_sql.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -262,7 +263,7 @@ permalink: /certs/
     <div class="cert-desc">Learn essential SQL querying—SELECT, JOINs, aggregation, and filtering—to extract and analyze data from relational databases.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/bg_cloud.png');" onclick="openLightbox(7)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/bg_cloud.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -274,7 +275,7 @@ permalink: /certs/
     <div class="cert-desc">Hands‑on exposure to core Google Cloud services—compute, storage, networking, and ML APIs—through practical labs.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ai_med.png');" onclick="openLightbox(8)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ai_med.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -286,7 +287,7 @@ permalink: /certs/
     <div class="cert-desc">Explores deep learning models for medical imaging applications—classification and segmentation using convolutional neural networks.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/gcp_leader.png');" onclick="openLightbox(9)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/gcp_leader.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -298,7 +299,7 @@ permalink: /certs/
     <div class="cert-desc">Professional certificate covering cloud concepts and GCP services to support digital transformation and business use‑cases.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/tf.png');" onclick="openLightbox(10)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/tf.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -310,7 +311,7 @@ permalink: /certs/
     <div class="cert-desc">Validated skills in building and training TensorFlow models for vision, NLP, and time series tasks.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/intro_tf.png');" onclick="openLightbox(11)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/intro_tf.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -322,7 +323,7 @@ permalink: /certs/
     <div class="cert-desc">Begins with TensorFlow basics and progresses through model training for computer vision using Keras and TF pipelines.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/it_support.png');" onclick="openLightbox(12)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/it_support.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -334,7 +335,7 @@ permalink: /certs/
     <div class="cert-desc">Covers essential IT support skills including troubleshooting, networking, OS management, system administration, and security.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/nvidia_fund_dl.png');" onclick="openLightbox(13)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/nvidia_fund_dl.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -346,7 +347,7 @@ permalink: /certs/
     <div class="cert-desc">Fundamental deep learning course introducing neural networks, CNNs, and hands‑on model implementation using PyTorch/TensorFlow.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/bg_ml.png');" onclick="openLightbox(14)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/bg_ml.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -358,7 +359,7 @@ permalink: /certs/
     <div class="cert-desc">Project‑based bootcamp covering supervised learning techniques, classification, and model evaluation fundamentals.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/kick.png');" onclick="openLightbox(15)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/kick.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -370,7 +371,7 @@ permalink: /certs/
     <div class="cert-desc">Introduction to key tech career skills—cloud computing, software development basics, and digital tools.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/gcp.png');" onclick="openLightbox(16)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/gcp.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -382,7 +383,7 @@ permalink: /certs/
     <div class="cert-desc">Intensive GCP challenge focused on deploying cloud solutions and APIs over a two‑month period.</div>
   </div>
 
-  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ibm_ml.png');" onclick="openLightbox(17)">
+  <div class="cert-card" title="Click to view certificate" style="--hover-bg: url('/assets/images/certs/ibm_ml.png');">
     <span class="cert-icon" title="Click to view certificate">
       {% include icons/eye.svg %}
     </span>
@@ -396,223 +397,25 @@ permalink: /certs/
 
 <!-- Lightbox -->
 <div id="certLightbox" onclick="closeLightbox()">
-  <div class="lightbox-arrow" id="lightbox-prev" onclick="event.stopPropagation(); prevLightbox()">
+  <div class="lightbox-arrow" id="lightbox-prev">
     <svg width="24" height="24" viewBox="0 0 24 24">
       <path d="M15 6l-6 6 6 6" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
   </div>
 
-  <div class="lightbox-arrow" id="lightbox-next" onclick="event.stopPropagation(); nextLightbox()">
+  <div class="lightbox-arrow" id="lightbox-next">
     <svg width="24" height="24" viewBox="0 0 24 24">
       <path d="M9 6l6 6-6 6" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
   </div>
 
   <div id="lightboxInner" onclick="event.stopPropagation()">
-    <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+    <span class="lightbox-close">&times;</span>
     <img id="lightboxImg" class="lightbox-img" src="" alt="Certificate">
     <div class="lightbox-caption" id="lightboxCaption"></div>
   </div>
 </div>
 
-<script>
-const certs = [
-  {
-    img: "/assets/images/certs/ml_fund_nano.png",
-    title: "AWS Machine Learning Fundamentals Nanodegree",
-    issuer: "Udacity",
-    date: "Aug 2024",
-    desc: "Program focusing on the end‑to‑end ML workflow using AWS SageMaker—covering data prep, feature engineering, model training (XGBoost, AutoGluon), tuning, deployment, and deep learning (CV & NLP).",
-    url: "https://www.udacity.com/certificate/e/c0f46e66-f6c0-11ee-a07c-97c7d1a9b5bb"
-  },
-  {
-    img: "/assets/images/certs/ai_py_nano.png",
-    title: "AI Programming with Python Nanodegree",
-    issuer: "Udacity",
-    date: "Feb 2024",
-    desc: "Comprehensive intro to Python for AI—with NumPy, Pandas, Matplotlib, and foundational neural network implementation using PyTorch.",
-    url: "https://www.udacity.com/certificate/e/60f986e2-0dc2-11ed-bd5e-8bcb422a4640"
-  },
-  {
-    img: "/assets/images/certs/hp_life.png",
-    title: "Data Science & Analytics",
-    issuer: "HP LIFE",
-    date: "Oct 2023",
-    desc: "Covers fundamental data analysis, visualization, and analytics tools—designed to make data‑driven business decisions.",
-    url: "https://www.life-global.org/certificate/9cc4f92f-43ac-494e-bf9a-cce4b3f96ff5"
-  },
-  {
-    img: "/assets/images/certs/nvidia_ai_anomaly.png",
-    title: "Applications of AI for Anomaly Detection",
-    issuer: "NVIDIA DLI",
-    date: "Feb 2023",
-    desc: "Hands‑on anomaly detection workshop using GPU‑accelerated XGBoost, deep autoencoders, and GANs to detect patterns in real‑world datasets.",
-    url: "https://learn.nvidia.com/certificates?id=aZPPzCrXSWuIp2zeoaQv_Q"
-  },
-  {
-    img: "/assets/images/certs/anaconda_ml.png",
-    title: "Introduction to Machine Learning",
-    issuer: "Anaconda",
-    date: "Feb 2023",
-    desc: "Introductory ML course exploring supervised learning, model evaluation, and practical implementation using Python and scikit‑learn.",
-    url: "https://learning.anaconda.com/certificates/zxssxhpcqr"
-  },
-  {
-    img: "/assets/images/certs/anaconda_py.png",
-    title: "Introduction to Python Programming",
-    issuer: "Anaconda",
-    date: "Feb 2023",
-    desc: "Fundamental course covering Python basics—variables, loops, functions, data types, and file I/O geared for data analysis.",
-    url: "https://verify.skilljar.com/c/vvgdtdzbxxsi"
-  },
-  {
-    img: "/assets/images/certs/anaconda_sql.png",
-    title: "Introduction to SQL",
-    issuer: "Anaconda",
-    date: "Feb 2023",
-    desc: "Learn essential SQL querying—SELECT, JOINs, aggregation, and filtering—to extract and analyze data from relational databases.",
-    url: "https://learning.anaconda.com/certificates/3ijhcvzt5i"
-  },
-  {
-    img: "/assets/images/certs/bg_cloud.png",
-    title: "Google Cloud Academy",
-    issuer: "BambooGeeks",
-    date: "Jan -- Feb 2023",
-    desc: "Hands‑on exposure to core Google Cloud services—compute, storage, networking, and ML APIs—through practical labs.",
-    url: "https://drive.google.com/file/d/1za4ZZhjk9cZtJbCvDe7GDG0aPj2vxAon/view?usp=drive_link"
-  },
-  {
-    img: "/assets/images/certs/ai_med.png",
-    title: "AI for Medical Diagnosis",
-    issuer: "DeepLearning.AI",
-    date: "May 2022",
-    desc: "Explores deep learning models for medical imaging applications—classification and segmentation using convolutional neural networks.",
-    url: "https://www.coursera.org/account/accomplishments/verify/LHQ2XBWRECVW"
-  },
-  {
-    img: "/assets/images/certs/gcp_leader.png",
-    title: "Google Cloud Digital Leader Training Professional Certificate",
-    issuer: "Google Cloud}",
-    date: "May 2022",
-    desc: "Professional certificate covering cloud concepts and GCP services to support digital transformation and business use‑cases.",
-    url: "https://www.coursera.org/account/accomplishments/professional-cert/YVQHSQKDP6VJ"
-  },
-  {
-    img: "/assets/images/certs/tf.png",
-    title: "TensorFlow Developer Certificate",
-    issuer: "TensorFlow",
-    date: "Apr 2022",
-    desc: "Validated skills in building and training TensorFlow models for vision, NLP, and time series tasks.",
-    url: "https://www.credential.net/384b5307-6f62-4873-88ca-04aa6d838901"
-  },
-  {
-    img: "/assets/images/certs/intro_tf.png",
-    title: "Introduction to TensorFlow for AI, ML, and DL",
-    issuer: "DeepLearning.AI",
-    date: "Apr 2022",
-    desc: "Begins with TensorFlow basics and progresses through model training for computer vision using Keras and TF pipelines.",
-    url: "https://www.coursera.org/account/accomplishments/verify/X9K9AA3KTTWF"
-  },
-  {
-    img: "/assets/images/certs/it_support.png",
-    title: "Google IT Support Professional Certificate",
-    issuer: "Google",
-    date: "Apr 2022",
-    desc: "Covers essential IT support skills including troubleshooting, networking, OS management, system administration, and security.",
-    url: "https://www.coursera.org/account/accomplishments/professional-cert/92MJFJPJE47Y"
-  },
-  {
-    img: "/assets/images/certs/nvidia_fund_dl.png",
-    title: "Fundamentals of Deep Learning",
-    issuer: "NVIDIA DLI",
-    date: "Feb 2022",
-    desc: "Fundamental deep learning course introducing neural networks, CNNs, and hands‑on model implementation using PyTorch/TensorFlow.",
-    url: "https://learn.nvidia.com/certificates?id=MlcE0Co3RrKSonVRL97WJQ"
-  },
-  {
-    img: "/assets/images/certs/bg_ml.png",
-    title: "Machine Learning Academy",
-    issuer: "BambooGeeks",
-    date: "Jan -- Feb 2022",
-    desc: "Project‑based bootcamp covering supervised learning techniques, classification, and model evaluation fundamentals.",
-    url: ""
-  },
-  {
-    img: "/assets/images/certs/kick.png",
-    title: "Kickstart your Career in Tech",
-    issuer: "BambooGeeks",
-    date: "Nov 2021",
-    desc: "Introduction to key tech career skills—cloud computing, software development basics, and digital tools.",
-    url: "https://drive.google.com/file/d/1QKvsCvYaMcqtflv9lVDA1G-0737qncrZ/view?usp=drive_link"
-  },
-  {
-    img: "/assets/images/certs/gcp.png",
-    title: "MENA 60 Days on Tech Challenge",
-    issuer: "Google Cloud}",
-    date: "Nov -- Dec 2021",
-    desc: "Intensive GCP challenge focused on deploying cloud solutions and APIs over a two‑month period.",
-    url: "https://www.cloudskillsboost.google/public_profiles/39db8c5a-3476-4bf2-85a8-34afeddeb35d"
-  },
-  {
-    img: "/assets/images/certs/ibm_ml.png",
-    title: "IBM Machine Learning Essentials",
-    issuer: "IBM}",
-    date: "Nov 2021",
-    desc: "Introduces ML workflows and model development using IBM Watson Studio—including supervised and unsupervised learning.",
-    url: "https://www.credly.com/badges/ef26ebbf-cb41-451a-8b7c-dd31ed162ab4"
-  }
-]
 
-let current = 0;
-const lightbox = document.getElementById("certLightbox");
-const img = document.getElementById("lightboxImg");
-const caption = document.getElementById("lightboxCaption");
-
-function updateLightbox() {
-  const cert = certs[current];
-  img.src = cert.img;
-  img.alt = cert.title;
-  caption.innerHTML = `
-    <a href="${cert.url}" target="_blank" class="verify-link">Verify</a>
-  `;
-}
-// <strong>${cert.title}</strong><br>
-    // ${cert.issuer}<br>
-    // <span class="cert-date">${cert.date}</span><br>
-    // <em>${cert.desc}</em><br>
-function openLightbox(index) {
-  current = index;
-  updateLightbox();
-  lightbox.style.display = "flex";
-}
-function closeLightbox() {
-  lightbox.style.display = "none";
-}
-function prevLightbox() {
-  current = (current - 1 + certs.length) % certs.length;
-  updateLightbox();
-}
-function nextLightbox() {
-  current = (current + 1) % certs.length;
-  updateLightbox();
-}
-
-// Swipe for mobile
-let touchStartX = 0;
-lightbox.addEventListener("touchstart", e => {
-  touchStartX = e.changedTouches[0].screenX;
-});
-lightbox.addEventListener("touchend", e => {
-  const touchEndX = e.changedTouches[0].screenX;
-  if (touchEndX - touchStartX > 60) prevLightbox();
-  else if (touchStartX - touchEndX > 60) nextLightbox();
-});
-
-document.addEventListener("keydown", function (e) {
-  if (lightbox.style.display !== "flex") return;
-  if (e.key === "ArrowLeft") prevLightbox();
-  else if (e.key === "ArrowRight") nextLightbox();
-  else if (e.key === "Escape") closeLightbox();
-});
-
-</script>
+<!-- JavaScript include -->
+<script src="/assets/js/ds_certs.js" defer></script>
