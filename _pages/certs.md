@@ -418,4 +418,4 @@ permalink: /certs/
 
 
 <!-- JavaScript include -->
-<script src="/assets/js/ds_certs.js" defer></script>
+<script src="/assets/js/certs.js" defer></script>
